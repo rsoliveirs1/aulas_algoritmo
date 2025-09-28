@@ -1,1 +1,11 @@
-Execicio 1
+algoritmo "Execicio_1"
+// Função :
+// Autor :
+// Data : 28/09/2025
+// Seção de Declarações
+//  1) Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
+var
+
+inicio
+ escreva("Olá!Mundo.")
+fimalgoritmo
